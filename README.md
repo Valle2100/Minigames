@@ -1,2 +1,0 @@
-# Minigames
-Kleine simple Spiele
